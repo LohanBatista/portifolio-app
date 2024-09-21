@@ -1,6 +1,6 @@
 import React from "react";
 import * as S from "./styles";
-import { HomeScreenProps } from "../../utils/types/Screens/HomeScreen";
+import { HomeScreenProps } from "@utils/types/Screens/HomeScreen";
 
 const HomeScreenView = (props: HomeScreenProps) => {
   return (
